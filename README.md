@@ -1,5 +1,5 @@
 # MoneySpent
-Find out how much many you spent on Amazon
+Find out how much money you've spent on Amazon
 
 
 Get your Amazon Data:
