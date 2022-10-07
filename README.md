@@ -20,4 +20,4 @@ Open Terminal/PowerShell/CMD:
 
 To start te program:
 
-1. in Terminal type python3 amazon.py
+1. in Terminal type python3 amazon.py ot py amazon.py
