@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 file_loc = input('Location of Amazon Data: ')
 file = file_loc.replace('"', '')
 
