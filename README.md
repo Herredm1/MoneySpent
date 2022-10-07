@@ -18,6 +18,15 @@ Open Terminal/PowerShell/CMD:
 1. pip install wheel
 2. pip install pandas
 
-To start te program:
+To start the program:
 
 1. in Terminal type python3 amazon.py ot py amazon.py
+
+What data does it show:
+
+1. Total amount of products you've purchased
+2. Total amout of money spent
+3. The address you and how many times you ordered to that address
+
+
+Can I see your data? No, I dont know how to do that.
