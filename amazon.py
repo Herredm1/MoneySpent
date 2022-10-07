@@ -1,8 +1,10 @@
 import pandas as pd
 
-file_loc = input('Where is your Amazon account report? (without qoutes) ')
 
-df = pd.read_csv(f'{file_loc}')
+file_loc = input('Location of Amazon Data: ')
+file = file_loc.replace('"', '')
+
+df = pd.read_csv(f'{file}')
 
 total = []
 new_total = 0
@@ -19,7 +21,10 @@ for sale in sales:
 for times in sales:
     items_bought += 1
 
-print(new_total, items_bought)
+print(f"""
+The number of Items you Purchased: {items_bought}
+
+The total prices of all items: {round(new_total)}""")
 
 address = df['Shipping Address Street 1']
 
@@ -34,7 +39,8 @@ for add in address:
             address_dict[add] += 1
 
 for key, value in address_dict.items():
-    print(key)
-    print(value)
+    print(f"""
+    Address: {key}
+    Times: {value}\n""")
 
 input('Press any key to exit.........')
