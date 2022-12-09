@@ -5,7 +5,7 @@ Find out how much money you've spent on Amazon
 Get your Amazon Data:
 
 1. Go to Amazon.com
-2. However over Account & List.
+2. Hover over Account & List.
 3. Click account
 4. Under Ordering and shopping preferences, click Download order reports.
 5. Under Request Order History Report Enter your account creation Date and for End date choose today's date.
