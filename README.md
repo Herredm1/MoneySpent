@@ -15,8 +15,7 @@ Before you start the program:
 
 Open Terminal/PowerShell/CMD:
 
-1. pip install wheel
-2. pip install pandas
+1. pip install -r requirements.txt
 
 To start the program:
 
@@ -28,5 +27,7 @@ What data does it show:
 2. Total amout of money spent
 3. The address you and how many times you ordered to that address
 
+F.A.Q:
 
-Can I see your data? No, I dont know how to do that.
+Q: Can I see your data? 
+A: No, I dont know how to do that.
