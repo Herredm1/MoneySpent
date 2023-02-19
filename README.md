@@ -29,5 +29,5 @@ What data does it show:
 
 F.A.Q:
 
-Q: Can I see your data? 
+Q: Can I see your data?
 A: No, I dont know how to do that.
